@@ -20,6 +20,7 @@
     "express": "^4.22.2",
     "jest": "^29.4.1",
     "jsonwebtoken": "^9.0.0",
+    "lts": "^2.0.0",
     "mongodb": "^7.2.0",
     "mongoos": "^0.0.1-security",
     "mongoose": "^6.13.9",
